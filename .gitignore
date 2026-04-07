@@ -1,0 +1,4 @@
+test_auth.log
+sentinel_state.json
+__pycache__/
+*.pyc
